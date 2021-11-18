@@ -14,3 +14,6 @@ for ($i = 0; $i < count($animals); $i++) {
   }
 }
 
+echo "<br>";
+// atau bisa juga pake search
+echo array_search('burung', $animals);

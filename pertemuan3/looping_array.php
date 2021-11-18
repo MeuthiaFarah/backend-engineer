@@ -1,7 +1,7 @@
 <?php
 
 #array
-$animals = ['kucing', 'ayam', 'ikan'];
+$animals = ['kucing', 'ayam', 'ikan', 'burung'];
 
 // menampilkan semua array
 foreach ($animals as $animal) {

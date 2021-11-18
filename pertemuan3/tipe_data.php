@@ -6,7 +6,7 @@ $nama = "meuthia farah";
 #integer
 $umur = 20;
 
-# float (bilangan koma)
+# float (bilangan koma atau pecahan)
 $ipk = 3.9;
 
 # boolean (ya atau tidak) bagusnya diawali 'is'
