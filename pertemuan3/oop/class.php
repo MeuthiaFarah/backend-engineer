@@ -1,4 +1,6 @@
 <?php
 
-# membuat class
-class Person{};
+# membuat class Person
+class Person{
+
+}
